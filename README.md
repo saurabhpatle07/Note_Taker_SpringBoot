@@ -32,3 +32,22 @@ Note_Taker is a full-stack web application built using Java, Hibernate, Spring f
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or submit a pull request.
+
+# Home Page :
+![Screenshot (133)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/083d145f-334f-48b9-bbd7-8d13b4b4fef9)
+# Add Notes Page :
+![Screenshot (134)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/20262436-b69f-4fb4-8c71-94e42f36848d)
+
+# Notes Saved :
+![Screenshot (135)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/9b710741-d868-4e52-82ac-a489a4
+
+# All Notes :
+![Screenshot (136)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/7cb95dc8-452c-4d7b-8b8e-e54544812940)
+923817)
+
+# Notes Update Form :
+![Screenshot (137)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/f54f6fdf-f6f9-4d44-a2c8-658b73f99fde)
+
+# Notes After Updation :
+![Screenshot (138)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/8fffa8ce-81d0-4ab7-b539-c629a029dcba)
+

@@ -1,6 +1,6 @@
 # Note_Taker Web Application
 
-Note_Taker is a full-stack web application built using Hibernate, Spring framework, Jakarta Servlet, MySQL database, JSP, and CSS. It allows users to create, read, update, and delete notes with titles and descriptions.
+Note_Taker is a full-stack web application built using Java, Hibernate, Spring framework, Jakarta Servlet, MySQL database, JSP, and CSS. It allows users to create, read, update, and delete notes with titles and descriptions.
 
 ## Features
 
@@ -11,13 +11,13 @@ Note_Taker is a full-stack web application built using Hibernate, Spring framewo
 
 ## Technologies Used
 
+- **Java**: Core programming language used for backend development.
 - **Hibernate**: Object-relational mapping (ORM) framework for managing database operations.
 - **Spring Framework**: Provides a comprehensive programming and configuration model for modern Java-based enterprise applications.
 - **Jakarta Servlet**: Handles HTTP requests and responses for web applications.
 - **MySQL Database**: Relational database management system for storing note data.
 - **JSP (JavaServer Pages)**: Allows the dynamic generation of web pages based on HTML and XML-like markup.
 - **CSS**: Used for styling the user interface of the web application.
-
 
 ## Usage
 

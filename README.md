@@ -39,7 +39,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 ![Screenshot (134)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/20262436-b69f-4fb4-8c71-94e42f36848d)
 
 # Notes Saved :
-![Screenshot (135)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/9b710741-d868-4e52-82ac-a489a4
+![Screenshot (135)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/ec4a543c-e23c-451e-a6a3-aa6e1b219f78)
 
 # All Notes :
 ![Screenshot (136)](https://github.com/saurabhpatle07/Note_Taker_SpringFramework/assets/107913745/7cb95dc8-452c-4d7b-8b8e-e54544812940)

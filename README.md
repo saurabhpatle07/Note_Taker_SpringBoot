@@ -17,15 +17,6 @@ Note_Taker is a full-stack web application built using Hibernate, Spring framewo
 - **JSP (JavaServer Pages)**: Allows the dynamic generation of web pages based on HTML and XML-like markup.
 - **CSS**: Used for styling the user interface of the web application.
 
-## Installation
-
-To run the Note_Taker web application locally, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Set up a MySQL database and update the database configuration in the application properties file.
-3. Deploy the application to a Servlet container (e.g., Apache Tomcat).
-4. Access the application in your web browser.
-
 ## Usage
 
 1. Launch the Note_Taker web application.
